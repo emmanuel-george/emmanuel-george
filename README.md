@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmanuel-george
 - 👀 My area of research interest are Cyber physical system with embedded system, Image processing and machine learning
-- 🌱 I’m currently pursuing my Masters degree in computer science at Texas Tech University.
+- 🌱 I’m currently pursuing my masters degree in computer science at Texas Tech University.
 - 📫 Reach me on : emmanuge@ttu.edu
 
 <!---
